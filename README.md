@@ -2,12 +2,12 @@
 
 ## 写在前面
 
-本仓库为个人刷题的仓库，主要语言为 Go/Java/C++，题目整体难度不高，偏基础， 
+本仓库为个人刷题的仓库，主要语言为 Go/Java/C++， 
 更多内容欢迎访问：[yngcy`s Blog（算法教程持续更新中……）](https://blog.yngcy.com)。
 
 刷题的OJ包括：
-- [codeforces](https://codeforces.com)：仓库中按照 contest ID 分类
-- [力扣](https://leetcode.cn)
+- [codeforces](https://codeforces.com)：中按照 contest ID 分类
+- [力扣](https://leetcode.cn)：按照周赛、双周赛、每日一题以及题单的方式分类
 
 
 
@@ -15,7 +15,7 @@
 
 ### Go
 
-[go-example](https://gobyexample-cn.github.io/) 快速了解 Go 的语法。
+- [Go by Example](https://gobyexample-cn.github.io/)：用代码示例解释语法，直观清晰。⭐⭐⭐⭐⭐
 
 ## 测试及对拍
 
@@ -27,5 +27,37 @@
 
 **交互题** 的对拍需要把涉及输入输出的地方抽象成接口。
 
-## 参考
-1. [灵神的算法模板](https://github.com/EndlessCheng/codeforces-go)
+## IDE配置
+
+### GoLand
+
+## 常用工具
+
+### 画图
+
+计算几何、图论或数据结构的画图工具。
+
+- [geogebra](https://www.geogebra.org/classic)：在线的几何画板
+- [Geometry Widget](https://csacademy.com/app/geometry_widget/)：用样例绘制几何图形
+- [Graph Editor](https://csacademy.com/app/graph_editor/)：用样例绘制树或图
+
+### 计算推导
+
+- [OEIS](https://oeis.org/)：用样例推到数列
+- [Wolfram|Alpha](https://www.wolframalpha.com/)：强大的计算工具
+
+### 题单
+
+- [ACDLadders](https://www.acodedaily.com/)：CF 的题单，可按难度和标签进行训练
+- [CFTracker](https://cftracker.netlify.app/contests)：CF 比赛题目列表
+- [AtCoder Problems](https://kenkoooo.com/atcoder/#/table/)：ATC 的比赛题目列表
+- [LC-Rating & Training](https://huxulm.github.io/lc-rating/)：灵神的力扣题单
+
+### 可视化统计
+
+- [Codeforces Visualizer](https://cfviz.netlify.app/)：CF的个人刷题统计
+- [Rating converter](https://silverfoxxxy.github.io/rating-converter)：ATC-CF 分数转换器
+
+### 文档
+
+- [StackEdit](https://stackedit.io/app#)：在线 Markdown 编辑器
