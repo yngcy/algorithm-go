@@ -2,8 +2,12 @@
 
 ## 写在前面
 
-本仓库为个人刷题的仓库，主要语言为 C++、Java、 Go、Python 等，题目整体难度不高，偏基础， 
+本仓库为个人刷题的仓库，主要语言为 Go/Java/C++，题目整体难度不高，偏基础， 
 更多内容欢迎访问：[yngcy`s Blog（算法教程持续更新中……）](https://blog.yngcy.com)。
+
+刷题的OJ包括：
+- [codeforces](https://codeforces.com)：仓库中按照 contest ID 分类
+- [力扣](https://leetcode.cn)
 
 
 
@@ -11,7 +15,7 @@
 
 ### Go
 
-推荐 [https://gobyexample-cn.github.io/](https://gobyexample-cn.github.io/) 快速了解 Go 的语法。
+[go-example](https://gobyexample-cn.github.io/) 快速了解 Go 的语法。
 
 ## 测试及对拍
 
