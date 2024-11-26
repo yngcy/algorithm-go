@@ -2,14 +2,19 @@
 
 ## 写在前面
 
-本仓库为个人刷题的仓库，主要语言为 Go/Java/C++， 
-更多内容欢迎访问：[yngcy`s Blog（算法教程持续更新中……）](https://blog.yngcy.com)。
+本仓库为个人刷题的仓库，主要语言为 Go/Java/C++/Python， 
+更多内容欢迎访问：[yngcy`s Blog（算法教程挖坑中……）](https://blog.yngcy.com)。
 
-刷题的OJ包括：
+刷题的 OJ 包括：
 - [codeforces](https://codeforces.com)：中按照 contest ID 分类
 - [力扣](https://leetcode.cn)：按照周赛、双周赛、每日一题以及题单的方式分类
 
+本仓库涵盖以下内容，包括：
 
+- 教程文档，包括算法的核心思想和复杂度
+- 参考资料，一些好的博客或资源
+- 模板代码，带有注释和使用说明，快速应用
+- 练习题，包括 OJ 上的题目以及在项目中的实践
 
 ## 语法基础
 
@@ -43,7 +48,7 @@
 
 ### 计算推导
 
-- [OEIS](https://oeis.org/)：用样例推到数列
+- [OEIS](https://oeis.org/)：用样例推导数列
 - [Wolfram|Alpha](https://www.wolframalpha.com/)：强大的计算工具
 
 ### 题单
